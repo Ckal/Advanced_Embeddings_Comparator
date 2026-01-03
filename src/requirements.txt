@@ -1,0 +1,25 @@
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-openai 
+langchain-text-splitters
+chromadb
+huggingface_hub
+transformers>=4.35.0
+jellyfish
+seaborn
+gensim
+NLTK
+matplotlib
+tokenizers
+sentence-transformers>=4.35.0
+gradio>=4.0.0
+shutils
+pdfplumber
+python-docx
+nltk
+#spacy
+faiss-cpu
+numpy # Add a stable version of numpy
+#wheel  # Add this line to ensure wheel is installed
